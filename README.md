@@ -18,7 +18,7 @@ How to use ?
 
 - [Invite SpaceID](https://discord.com/api/oauth2/authorize?client_id=828622587445379112&permissions=8&scope=bot)
 #
-Thanks For Read Me And Dont Forget To Follow Me 👋
+Thanks For Read Me And Don't Forget To Follow Me 👋
 #
 <img src="https://media.discordapp.net/attachments/859959669715370004/860074854295797760/20210518_142145.jpg">
 

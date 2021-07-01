@@ -1,1 +1,1 @@
-# discord.js-simple-giveaway-command
+# Discord.js-Simple-Giveaway-Command
